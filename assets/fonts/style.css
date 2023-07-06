@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'LEMONMILK-Regular';
+   font-display: swap;
+   src: url('LEMONMILK-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'LEMONMILK-Light';
+   font-display: swap;
+   src: url('LEMONMILK-Light/font.ttf');
+}
